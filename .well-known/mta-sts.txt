@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
 mx: ctstax-com.mail.protection.outlook.com
+mx: ctstax-com.f-v1.mx.microsoft
 max_age: 604800
